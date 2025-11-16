@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="PryceVision">
+
+    <!-- ===== CHANNEL DEFINITIONS ===== -->
+    <channel id="Nfl1.cy">
+        <display-name>NFL PASS 1</display-name>
+    </channel>
+    <channel id="Nfl2.cy">
+        <display-name>NFL PASS 2</display-name>
+    </channel>
+    <channel id="Nfl3.cy">
+        <display-name>NFL PASS 3</display-name>
+    </channel>
+    <channel id="Nfl4.cy">
+        <display-name>NFL PASS 4</display-name>
+    </channel>
+    <channel id="Nfl5.cy">
+        <display-name>NFL PASS 5</display-name>
+    </channel>
+    <channel id="Nfl6.cy">
+        <display-name>NFL PASS 6</display-name>
+    </channel>
+    <channel id="Nfl7.cy">
+        <display-name>NFL PASS 7</display-name>
+    </channel>
+    <channel id="Nfl8.cy">
+        <display-name>NFL PASS 8</display-name>
+    </channel>
+
+    <!-- ===== PROGRAMME LISTINGS FOR 2025-11-16 (EST, -0500) ===== -->
+
+    <!-- 9:30 AM – 12:30 PM (Nfl1.cy) -->
+    <programme start="20251116093000 -0500" stop="20251116123000 -0500" channel="Nfl1.cy">
+        <title>Washington Commanders vs Miami Dolphins</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+    <!-- 1:00 PM – 4:00 PM (Nfl2.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl2.cy">
+        <title>N/A</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 1:00 PM – 4:00 PM (Nfl3.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl3.cy">
+        <title>Houston Texans vs Tennessee Titans</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+    
+    <!-- 1:00 PM – 4:00 PM (Nfl4.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl4.cy">
+        <title>Live: NFL Football: Tampa Bay Buccaneers at Buffalo Bills</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 1:00 PM – 4:00 PM (Nfl5.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl5.cy">
+        <title>Live: NFL Football: Houston Texans at Tennessee Titans</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 1:00 PM – 4:00 PM (Nfl6.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl6.cy">
+        <title>Live: NFL Football: Chicago Bears at Minnesota Vikings</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 1:00 PM – 4:00 PM (Nfl1.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl1.cy">
+        <title>Live: NFL Football: Tampa Bay Buccaneers at Buffalo Bills</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 1:00 PM – 4:00 PM (Nfl7.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl7.cy">
+        <title>Live: NFL Football: Green Bay Packers at New York Giants</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 1:00 PM – 4:00 PM (Nfl8.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl8.cy">
+        <title>Live: NFL Football: Cincinnati Bengals at Pittsburg Steelers</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 1:00 PM – 4:00 PM (Nfl2.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl9.cy">
+        <title>Live: NFL Football: Los Angeles Chargers at Jacksonville Jaguars</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+    <!-- 1:00 PM – 4:00 PM (Nfl2.cy) -->
+    <programme start="20251116130000 -0500" stop="20251116190500 -0500" channel="Nfl1.cy">
+        <title>San Francisco 49ers vs Arizona Cardinals</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+
+    <!-- 4:05 PM – 7:05 PM (Nfl2.cy) -->
+    <programme start="20251116160500 -0500" stop="20251116190500 -0500" channel="Nfl2.cy">
+        <title>Seattle Seahawks vs Los Angeles Rams</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+    <!-- 4:25 PM – 7:25 PM (Nfl3.cy) -->
+    <programme start="20251116162500 -0500" stop="20251116192500 -0500" channel="Nfl3.cy">
+        <title>Kansas City Chiefs vs Denver Broncos</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+    <!-- 4:25 PM – 7:25 PM (Nfl4.cy) -->
+    <programme start="20251116162500 -0500" stop="20251116192500 -0500" channel="Nfl4.cy">
+        <title>Baltimore Ravens vs Cleveland Browns</title>
+        <desc>Live NFL game coverage.</desc>
+    </programme>
+
+    <!-- 8:20 PM – 11:20 PM (Nfl5.cy) -->
+    <programme start="20251116202000 -0500" stop="20251116232000 -0500" channel="Nfl5.cy">
+        <title>Detroit Lions vs Philadelphia Eagles</title>
+        <desc>Live NFL Sunday Night Football coverage.</desc>
+    </programme>
+
+</tv>
