@@ -37,14 +37,14 @@
 
     <!-- 1:00 PM – 4:00 PM (Nfl2.cy) -->
     <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl2.cy">
-        <title>N/A</title>
+        <title>NO GAME SCHEDULED</title>
         <desc>Live NFL game coverage.</desc>
     </programme>
 
 
     <!-- 1:00 PM – 4:00 PM (Nfl3.cy) -->
     <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl3.cy">
-        <title>Houston Texans vs Tennessee Titans</title>
+        <title>Live: NFL Football: Carolina Panthers at Atlanta Falcons</title>
         <desc>Live NFL game coverage.</desc>
     </programme>
 
@@ -91,15 +91,14 @@
     </programme>
 
 
-    <!-- 1:00 PM – 4:00 PM (Nfl2.cy) -->
+    <!-- 1:00 PM – 4:00 PM (NfL9.cy) -->
     <programme start="20251116130000 -0500" stop="20251116160000 -0500" channel="Nfl9.cy">
         <title>Live: NFL Football: Los Angeles Chargers at Jacksonville Jaguars</title>
         <desc>Live NFL game coverage.</desc>
     </programme>
 
-    <!-- 1:00 PM – 4:00 PM (Nfl2.cy) -->
-    <programme start="20251116130000 -0500" stop="20251116190500 -0500" channel="Nfl1.cy">
-        <title>San Francisco 49ers vs Arizona Cardinals</title>
+    <!-- 4:05 PM – 7:05 PM (Nfl1.cy) -->
+    <programme start="20251116160500 -0500" stop="20251116190500 -0500" channel="Nfl1.cy">
         <desc>Live NFL game coverage.</desc>
     </programme>
 
